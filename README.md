@@ -14,7 +14,7 @@
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience in C#, C++, OS fundamentals, Data structures, Algorithms, OOP, Solid presiples, Design paterns, Dart, flutter 
 - Developing GenAI applications integrating with Gemini & OpenAI services.
- -⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+-⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
 
